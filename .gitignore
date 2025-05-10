@@ -1,0 +1,10 @@
+# Binaries
+*.exe
+*.out
+.idea
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
